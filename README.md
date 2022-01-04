@@ -8,4 +8,10 @@ Miner support NVidia (green) and AMD (red) videocards.
 The best solution is to use Flight Sheet. Just download the latest Flight Sheet from Releases https://github.com/InspireDevice/ZTON-Miner/releases and upload to your Hive OS web interface. 
 Otherwise you could download tar.gz archive and setup manually
 
+# Developer fee is less that 1%
+We use simple and fair formula: less that 1% of hashes (NOT shares) could be calculated as developer fee.
+
+# Support
+You may join Telegram group and ask the question [Whales Pool. Ton Mining [English]] (https://t.me/+FK7zwGYZ7CJmMmIy)
+
 Happy mining!
