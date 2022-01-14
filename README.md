@@ -18,6 +18,6 @@ Otherwise you could download tar.gz archive and setup manually
 We use simple and fair formula: less that 1% of hashes (NOT shares) could be calculated as developer fee.
 
 # Support
-You may join Telegram group and ask the question [Whales Pool. Ton Mining [English]](https://t.me/+FK7zwGYZ7CJmMmIy)
+You may join Telegram group and ask the question [ZTon Miner [English|Russian]](https://t.me/+FK7zwGYZ7CJmMmIy)
 
 Happy mining!
