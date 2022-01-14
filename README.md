@@ -6,8 +6,8 @@ Miner support NVidia (green) and AMD (red) videocards.
 
 # Pools
 ZTON Miner adopted for such well known TON pools:
-[Whales Pool](https://tonwhales.com/mining) use version [0.0.8](https://github.com/InspireDevice/ZTON-Miner/releases/tag/0.0.8)
-[11 Giver Pool](https://11giver.com/) use version [0.0.9](https://github.com/InspireDevice/ZTON-Miner/releases/tag/0.0.9)
+- [Whales Pool](https://tonwhales.com/mining) use version [0.0.8](https://github.com/InspireDevice/ZTON-Miner/releases/tag/0.0.8)
+- [11 Giver Pool](https://11giver.com/) use version [0.0.9](https://github.com/InspireDevice/ZTON-Miner/releases/tag/0.0.9)
 
 
 # HOWTO install in HiveOS
